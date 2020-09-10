@@ -26,4 +26,7 @@
  
   - JUnit is used for unit testing. Eg: UserControllerTest
   - Mokito is used to MOCK components.
- 
+
+ # High level system design
+
+ ![alt text](TravelLodge.png)
