@@ -29,4 +29,4 @@
 
  # High level system design
 
- ![alt text](TravelLodge.png)
+ ![alt text](Travel Lodge.png)
