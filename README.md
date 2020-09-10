@@ -13,7 +13,7 @@
   - Travel lodge REST API is built via Spring Boot with java 1.8.
   - MVC Patter is used in this project.
   - In this project follwoing packages can be seen. model, controller, service and repository.
-  - Service Represent business logic. Eg:- UserServiceImpl, PaymentSer .
+  - Service Represent business logic. Eg:- UserServiceImpl, BookingServiceImpl, PaymentServiceImpl and HotelServiceImpl.
   - Controller represent intermediary layer between model and view. Eg: UIController
   - REST controllers represnt the CRUD interface for the RESTfull API.
   - Repository reprent the DAO (data access object) layer. Eg:- UserRepository
@@ -29,6 +29,3 @@
   - JUnit is used for unit testing. Eg: UserControllerTest
   - Mokito is used to MOCK components.
 
- # High level system design
-
- ![alt text](Travel lodge.png)
