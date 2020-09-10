@@ -21,6 +21,8 @@
   - Model represents the POJO (plain old java object). Eg:- Entity object /DTO (data transfer object) object.
   - Programing to the interface not to the implemantation design principal is used. Eg: using UserService interface rather UserServiceImpl
   - View represent the user interface Eg:- register.html, tymeleaf and Jquery is used.
+  - MySQL is used as the SQL database. DB name: travel_db. Database username and password is setup in application.properties
+  - This application will run on http://localhost:8080/api/register
   
  # Testing
  
@@ -29,4 +31,4 @@
 
  # High level system design
 
- ![alt text](Travel Lodge.png)
+ ![alt text](Travel lodge.png)
