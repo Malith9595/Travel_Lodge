@@ -29,3 +29,7 @@
   - JUnit is used for unit testing. Eg: UserControllerTest
   - Mokito is used to MOCK components.
 
+#High Level Architecture Diagram
+ - ![alt text](High_Level_Architecture_Diagram.png)
+#Sequence diagram For user register flow
+- ![alt text](Sequence_diagram_For_user_register_flow.png)
